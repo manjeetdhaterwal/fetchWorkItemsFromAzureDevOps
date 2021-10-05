@@ -1,6 +1,6 @@
 # fetchWorkItemsFromAzureDevOps
 
-C# code content
+<h2>C# code content</h2><br>
 There are a few things happening in the following code sample:
 
 <h3>Authenticating</h3>
